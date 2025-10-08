@@ -3,7 +3,7 @@
 
 > _"Where Code Meets Yukti — Logic, Innovation, and Purpose."_  
 
-CodeYukti is an open initiative focused on building meaningful software solutions that solve real-world problems and make everyday life easier.  
+**CodeYukti** is an open initiative focused on building meaningful software solutions that solve real-world problems and make everyday life easier.  
 The name combines **“Code”**, representing modern technology, with **“Yukti”**, the Sanskrit word for **strategy, intelligence, or solution** — symbolizing our mission to create thoughtful, impactful, and human-centered technology.
 
 ---
